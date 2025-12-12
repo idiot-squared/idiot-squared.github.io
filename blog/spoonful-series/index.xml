@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Spoonful of Hugo on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/</link><description>Recent content in A Spoonful of Hugo on Hugo Apéro</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/index.xml" rel="self" type="application/rss+xml"/><item><title>A first post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Spoonful of Hugo on Hugo Apéro</title><link>https://idiot-squared.github.io/blog/spoonful-series/</link><description>Recent content in A Spoonful of Hugo on Hugo Apéro</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://idiot-squared.github.io/blog/spoonful-series/index.xml" rel="self" type="application/rss+xml"/><item><title>A first post</title><link>https://idiot-squared.github.io/blog/spoonful-series/01-spoonful/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/spoonful-series/01-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
  &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
  &lt;p>Use me to find your way in your website.&lt;/p>
  
@@ -52,7 +52,7 @@
  &lt;/svg>&lt;/a>
 &lt;/h3>
 &lt;hr>
-&lt;p>Let&amp;rsquo;s start.&lt;/p></description></item><item><title>A second post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+&lt;p>Let&amp;rsquo;s start.&lt;/p></description></item><item><title>A second post</title><link>https://idiot-squared.github.io/blog/spoonful-series/02-spoonful/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/spoonful-series/02-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
  &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
  &lt;p>Use me to find your way in your website.&lt;/p>
  
@@ -86,7 +86,7 @@
  &lt;dl class="f5 lh-copy">
  &lt;dt class="fw7">Images in this page bundle:&lt;/dt>
  
- &lt;dd class="fw5 ml0">/hugo-apero-github-template/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg&lt;/dd>
+ &lt;dd class="fw5 ml0">/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg&lt;/dd>
  
  &lt;/dl>
  
@@ -142,7 +142,7 @@
  &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
-&lt;/h2></description></item><item><title>A third post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+&lt;/h2></description></item><item><title>A third post</title><link>https://idiot-squared.github.io/blog/spoonful-series/03-spoonful/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/spoonful-series/03-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
  &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
  &lt;p>Use me to find your way in your website.&lt;/p>
  
@@ -181,7 +181,7 @@
  &lt;dl class="f5 lh-copy">
  &lt;dt class="fw7">Images in this page bundle:&lt;/dt>
  
- &lt;dd class="fw5 ml0">/hugo-apero-github-template/blog/spoonful-series/03-spoonful/featured-photo.jpg&lt;/dd>
+ &lt;dd class="fw5 ml0">/blog/spoonful-series/03-spoonful/featured-photo.jpg&lt;/dd>
  
  &lt;/dl>
  

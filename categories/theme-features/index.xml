@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theme Features on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/categories/theme-features/</link><description>Recent content in Theme Features on Hugo Apéro</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/categories/theme-features/index.xml" rel="self" type="application/rss+xml"/><item><title>A first post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theme Features on Hugo Apéro</title><link>https://idiot-squared.github.io/categories/theme-features/</link><description>Recent content in Theme Features on Hugo Apéro</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://idiot-squared.github.io/categories/theme-features/index.xml" rel="self" type="application/rss+xml"/><item><title>A first post</title><link>https://idiot-squared.github.io/blog/spoonful-series/01-spoonful/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/spoonful-series/01-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
  &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
  &lt;p>Use me to find your way in your website.&lt;/p>
  
@@ -52,7 +52,7 @@
  &lt;/svg>&lt;/a>
 &lt;/h3>
 &lt;hr>
-&lt;p>Let&amp;rsquo;s start.&lt;/p></description></item><item><title>A second post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+&lt;p>Let&amp;rsquo;s start.&lt;/p></description></item><item><title>A second post</title><link>https://idiot-squared.github.io/blog/spoonful-series/02-spoonful/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/spoonful-series/02-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
  &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
  &lt;p>Use me to find your way in your website.&lt;/p>
  
@@ -86,7 +86,7 @@
  &lt;dl class="f5 lh-copy">
  &lt;dt class="fw7">Images in this page bundle:&lt;/dt>
  
- &lt;dd class="fw5 ml0">/hugo-apero-github-template/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg&lt;/dd>
+ &lt;dd class="fw5 ml0">/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg&lt;/dd>
  
  &lt;/dl>
  
@@ -142,7 +142,7 @@
  &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
-&lt;/h2></description></item><item><title>A third post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+&lt;/h2></description></item><item><title>A third post</title><link>https://idiot-squared.github.io/blog/spoonful-series/03-spoonful/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/spoonful-series/03-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
  &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
  &lt;p>Use me to find your way in your website.&lt;/p>
  
@@ -181,7 +181,7 @@
  &lt;dl class="f5 lh-copy">
  &lt;dt class="fw7">Images in this page bundle:&lt;/dt>
  
- &lt;dd class="fw5 ml0">/hugo-apero-github-template/blog/spoonful-series/03-spoonful/featured-photo.jpg&lt;/dd>
+ &lt;dd class="fw5 ml0">/blog/spoonful-series/03-spoonful/featured-photo.jpg&lt;/dd>
  
  &lt;/dl>
  
@@ -217,16 +217,16 @@
  &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
-&lt;/h2></description></item><item><title>Set up your social</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/social/</link><pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/social/</guid><description>&lt;p>There are five places where you can choose to show social icons. Here is the tl;dr:&lt;/p>
+&lt;/h2></description></item><item><title>Set up your social</title><link>https://idiot-squared.github.io/blog/social/</link><pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/social/</guid><description>&lt;p>There are five places where you can choose to show social icons. Here is the tl;dr:&lt;/p>
 &lt;ul>
 &lt;li>site header (set in &lt;code>config.toml&lt;/code>),&lt;/li>
 &lt;li>site footer (set in &lt;code>config.toml&lt;/code>),&lt;/li>
 &lt;li>
-&lt;a href="https://jlumbroso.github.io/hugo-apero-github-template/">homepage&lt;/a> (set in &lt;code>content/_index.md&lt;/code>),&lt;/li>
+&lt;a href="https://idiot-squared.github.io/">homepage&lt;/a> (set in &lt;code>content/_index.md&lt;/code>),&lt;/li>
 &lt;li>
-&lt;a href="https://jlumbroso.github.io/hugo-apero-github-template/about">about page&lt;/a> in the sidebar (set in &lt;code>content/about/sidebar/index.md&lt;/code>), and&lt;/li>
+&lt;a href="https://idiot-squared.github.io/about">about page&lt;/a> in the sidebar (set in &lt;code>content/about/sidebar/index.md&lt;/code>), and&lt;/li>
 &lt;li>
-&lt;a href="https://jlumbroso.github.io/hugo-apero-github-template/contact">contact page&lt;/a> (set in &lt;code>content/form/contact.md&lt;/code>).&lt;/li>
+&lt;a href="https://idiot-squared.github.io/contact">contact page&lt;/a> (set in &lt;code>content/form/contact.md&lt;/code>).&lt;/li>
 &lt;/ul>
 &lt;p>Read on to learn how to set up your social icons, and how to show/hide them.&lt;/p>
 
@@ -239,7 +239,7 @@
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
 &lt;/h2>
-&lt;p>Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site &lt;code>config.toml&lt;/code> file. Open that up and scroll down to the &lt;code>[[params.social]]&lt;/code> section. The start of it looks like this:&lt;/p></description></item><item><title>Style your site colors</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/color-themes/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/color-themes/</guid><description>&lt;p>You can totally customize your site&amp;rsquo;s theme colors within minutes of
+&lt;p>Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site &lt;code>config.toml&lt;/code> file. Open that up and scroll down to the &lt;code>[[params.social]]&lt;/code> section. The start of it looks like this:&lt;/p></description></item><item><title>Style your site colors</title><link>https://idiot-squared.github.io/blog/color-themes/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/color-themes/</guid><description>&lt;p>You can totally customize your site&amp;rsquo;s theme colors within minutes of
 creating a new site. Read on to find out how, and decide which of the
 three options meets your needs.&lt;/p>
 
@@ -254,7 +254,7 @@ three options meets your needs.&lt;/p>
 &lt;/h2>
 &lt;p>Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo;
 This means you can use a color theme to quickly customize the look of your site
-without needing to write any CSS. You can select the color theme in your &lt;code>config.toml&lt;/code> file. Scroll down to find:&lt;/p></description></item><item><title>Style your site typography</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/fonts/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/fonts/</guid><description>&lt;p>As with 
+without needing to write any CSS. You can select the color theme in your &lt;code>config.toml&lt;/code> file. Scroll down to find:&lt;/p></description></item><item><title>Style your site typography</title><link>https://idiot-squared.github.io/blog/fonts/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/fonts/</guid><description>&lt;p>As with 
 &lt;a href="../color-themes">color themes&lt;/a>, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.&lt;/p>
 
 
@@ -267,7 +267,7 @@ without needing to write any CSS. You can select the color theme in your &lt;cod
  &lt;/svg>&lt;/a>
 &lt;/h2>
 &lt;p>Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include 
-&lt;a href="https://www.marksimonson.com/notebook/view/FakevsTrueItalics" target="_blank" rel="noopener">real italics&lt;/a> so you may &lt;em>emphasize&lt;/em> to your &lt;em>heart&amp;rsquo;s&lt;/em> content :heart:! How to choose?&lt;/p></description></item><item><title>Using panelsets</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/seedling/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/seedling/</guid><description>&lt;p>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: 
+&lt;a href="https://www.marksimonson.com/notebook/view/FakevsTrueItalics" target="_blank" rel="noopener">real italics&lt;/a> so you may &lt;em>emphasize&lt;/em> to your &lt;em>heart&amp;rsquo;s&lt;/em> content :heart:! How to choose?&lt;/p></description></item><item><title>Using panelsets</title><link>https://idiot-squared.github.io/blog/seedling/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/seedling/</guid><description>&lt;p>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: 
 &lt;a href="https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset" target="_blank" rel="noopener">https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&lt;/a>&lt;/p>
 &lt;p>For example, this panelset:&lt;/p>
 &lt;div id="" class="panelset">
@@ -303,7 +303,7 @@ without needing to write any CSS. You can select the color theme in your &lt;cod
  &lt;div class="panel">
  &lt;div class="panel-name">Answer :hatching_chick:&lt;/div>
  &lt;!-- Panel content -->
- &lt;p>Team :egg: FTW!&lt;/p></description></item><item><title>Tachyons for Style</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/giraffes/</link><pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/giraffes/</guid><description>&lt;p>&lt;img src="tachyons-logo-script.png" alt="Tachyons Logo Script">&lt;/p>
+ &lt;p>Team :egg: FTW!&lt;/p></description></item><item><title>Tachyons for Style</title><link>https://idiot-squared.github.io/project/giraffes/</link><pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/project/giraffes/</guid><description>&lt;p>&lt;img src="tachyons-logo-script.png" alt="Tachyons Logo Script">&lt;/p>
 
 
 
@@ -332,7 +332,7 @@ very small (which means fast) CSS modules that you can use in your HTML. So,
 rather than writing every line of CSS, you apply the style you need as you write
 your HTML with easy to understand shorthand class names. This makes for a very
 powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. &lt;strong>It&amp;rsquo;s a joy to use.&lt;/strong>&lt;/p></description></item><item><title>CSS Grid Scaffold</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/css-grid-scaffold/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/css-grid-scaffold/</guid><description>&lt;h3 id="grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”
+one – since you can see every change with every save. &lt;strong>It&amp;rsquo;s a joy to use.&lt;/strong>&lt;/p></description></item><item><title>CSS Grid Scaffold</title><link>https://idiot-squared.github.io/blog/css-grid-scaffold/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/css-grid-scaffold/</guid><description>&lt;h3 id="grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”
  &lt;a href="#grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
@@ -351,7 +351,7 @@ one – since you can see every change with every save. &lt;strong>It&amp;rsquo;
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
 &lt;/h2>
-&lt;p>Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code>TABLE&lt;/code>.&lt;/p></description></item><item><title>Palmer Penguins</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/penguins/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/penguins/</guid><description>&lt;h3 id="grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”
+&lt;p>Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code>TABLE&lt;/code>.&lt;/p></description></item><item><title>Palmer Penguins</title><link>https://idiot-squared.github.io/project/penguins/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/project/penguins/</guid><description>&lt;h3 id="grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”
  &lt;a href="#grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
@@ -360,7 +360,7 @@ one – since you can see every change with every save. &lt;strong>It&amp;rsquo;
 &lt;p>&lt;em>— 
 &lt;a href="http://chris.house/blog/a-complete-guide-css-grid-layout/" target="_blank" rel="noopener">Chris House, A Complete Guide to CSS Grid Layout&lt;/a>&lt;/em> &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
 &lt;hr>
-&lt;p>Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code>TABLE&lt;/code>.&lt;/p></description></item><item><title>Bakeoff</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/bakeoff/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/bakeoff/</guid><description>&lt;p>&lt;img src="formspree-logo.png" alt="Formspree Logo">&lt;/p>
+&lt;p>Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code>TABLE&lt;/code>.&lt;/p></description></item><item><title>Bakeoff</title><link>https://idiot-squared.github.io/project/bakeoff/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/project/bakeoff/</guid><description>&lt;p>&lt;img src="formspree-logo.png" alt="Formspree Logo">&lt;/p>
 
 
 
@@ -384,7 +384,7 @@ one – since you can see every change with every save. &lt;strong>It&amp;rsquo;
  &lt;/svg>&lt;/a>
 &lt;/h3>
 &lt;p>This theme has a &lt;strong>form-to-email&lt;/strong> feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(&lt;code>/content/forms/contact.md&lt;/code>). Of course, the example shown below (&lt;code>your@email.here&lt;/code>) must not be used. Please use your actual email address.&lt;/p></description></item><item><title>Built-in Contact Form</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/built-in-contact-form/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/built-in-contact-form/</guid><description>&lt;p>&lt;img src="formspree-logo.png" alt="Formspree Logo">&lt;/p>
+(&lt;code>/content/forms/contact.md&lt;/code>). Of course, the example shown below (&lt;code>your@email.here&lt;/code>) must not be used. Please use your actual email address.&lt;/p></description></item><item><title>Built-in Contact Form</title><link>https://idiot-squared.github.io/blog/built-in-contact-form/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://idiot-squared.github.io/blog/built-in-contact-form/</guid><description>&lt;p>&lt;img src="formspree-logo.png" alt="Formspree Logo">&lt;/p>
 
 
 
