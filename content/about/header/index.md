@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: 
-    想要成为下一个随机呆头？
+    下一个呆头？
 ---
 <!-- this is a subheadline -->
-这就是最好的机会！
+不好意思，这不随机了。
