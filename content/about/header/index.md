@@ -3,8 +3,6 @@
 text_align_right: false
 show_title_as_headline: false
 headline: 
-  关于本站
----
-
+    想要成为互联网的下一个随机呆头？
 <!-- this is a subheadline -->
-你从哪里来，到哪里去？
+这就是最好的机会！
