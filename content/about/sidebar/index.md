@@ -1,18 +1,20 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Hugo Apéro"
-role: "A Hugo theme"
+author: "呆头²"
+role: "只是互联网上的两个随机呆头"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
+audio_link_label: "What does an idiot say?" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Math
+  url: https://en.wikipedia.org/wiki/Math
+- name: Econ
+  url: https://en.wikipedia.org/wiki/Economics
+- name: NLP
+  url: https://en.wikipedia.org/wiki/NLP
+- name: Idol
+  url: https://en.wikipedia.org/wiki/idol
 ---
 
 ** index doesn't contain a body, just front matter above.
