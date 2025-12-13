@@ -41,6 +41,8 @@ Wherever you end up wanting to show your social icons, you'll need to start by s
   [[params.social]] <!--lather, rinse, repeat-->
 ```
 
+> *This is a quotation. 这是一段引用。*
+
 For each link, you'll need to start a new portion that begins with `[[params.social]]`. Then, pick your `icon` and `icon_pack` from the [Font Awesome](https://fontawesome.com/) free icon library:
 
 + Icon pack "fab" includes [brand icons](https://fontawesome.com/icons?d=gallery&s=brands&m=free)

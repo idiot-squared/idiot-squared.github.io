@@ -29,8 +29,8 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Fried Egg Studio"
+  orgLocal = "Antarctica"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "img/favicon.ico"
   logo = "img/blogophonic-mark-dark.png"
@@ -49,7 +49,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "sky"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -63,11 +63,11 @@ enableEmoji = true
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customheadingFontFamily = "Noto Serif SC"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  # textFontFamily = "Noto Sans SC"
+  # headingFontFamily = "Noto Serif SC"
 
   # Specify use of utterances, giscus or disqus
   comments = "utterances"
@@ -176,16 +176,16 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+  # [[menu.footer]]
+  #   name = "Contact"
+  #   title = "Contact form"
+  #   url = "/contact/"
+  #   weight = 2
+  # [[menu.footer]]
+  #   name = "Contributors"
+  #   title = "Contributors"
+  #   url = "/contributors/"
+  #   weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
@@ -220,3 +220,6 @@ enableEmoji = true
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
+
+# [markup.goldmark.extensions]
+#     typographer = false

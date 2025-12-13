@@ -11,7 +11,7 @@ description: |
   day two
 excerpt: 
 author: Alison Hill
-show_post_thumbnail: true
+
 show_author_byline: false
 show_post_date: false
 ---
